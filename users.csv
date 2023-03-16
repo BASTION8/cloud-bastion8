@@ -1,0 +1,3 @@
+"id","login","password","name","role_id"
+5,"user","pbkdf2:sha256:260000$Q93bsx6yANHx25o0$0ee441b135c5373ef4a5c4575057b6a7e375123f565bc3a4702de2bf2557ac3e","Анатолий",2
+6,"admin","pbkdf2:sha256:260000$DamTvRRVBkYziqoE$b89abe1197ee8409bb428580a761086e6a0b6e92cafd9e43a3bd609e62415d09","Анатолий",1
